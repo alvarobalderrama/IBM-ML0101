@@ -1,5 +1,6 @@
-# IBM-ML0101
-IBM course: Machine Learning with Python
+# IBM course: Machine Learning with Python
+IBM-ML0101
+
 
 December 2023-January 2024
 
